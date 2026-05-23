@@ -16,7 +16,7 @@ Designed with a strict adherence to Apple's Human Interface Guidelines (HIG), th
 
 Check out the full walkthrough of the application, where I explain the features, the codebase architecture, and the SwiftUI concepts implemented:
 
-**[Watch on YouTube](https://youtu.be/u2MUkp1pkjY)**
+[![MyVisionBoard Demo Video](https://img.youtube.com/vi/u2MUkp1pkjY/0.jpg)](https://www.youtube.com/watch?v=u2MUkp1pkjY)
 
 ---
 
