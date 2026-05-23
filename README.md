@@ -16,7 +16,22 @@ Designed with a strict adherence to Apple's Human Interface Guidelines (HIG), th
 
 Check out the full walkthrough of the application, where I explain the features, the codebase architecture, and the SwiftUI concepts implemented:
 
-[![MyVisionBoard Demo Video](https://img.youtube.com/vi/u2MUkp1pkjY/0.jpg)](https://www.youtube.com/watch?v=u2MUkp1pkjY)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=u2MUkp1pkjY">
+    <img src="https://img.youtube.com/vi/u2MUkp1pkjY/0.jpg" alt="MyVisionBoard Demo Video" width="600">
+  </a>
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
+</div>
 
 ---
 
@@ -57,15 +72,6 @@ As a software engineer, I focused on building a robust and scalable architecture
 * **Customization:** Personalize the board's background color and title.
 * **Interactive Goal Tracking:** Track progress interactively with sliders and record emotional states with a custom emoji picker.
 * **Dark Mode Support:** Fully responsive to system appearance changes using dynamic iOS system colors.
-
----
-
-## 💻 Tech Stack
-
-* **Language:** Swift 5+
-* **UI Framework:** SwiftUI
-* **IDE:** Xcode 15+
-* **Deployment Target:** iOS 17.0+
 
 ---
 
